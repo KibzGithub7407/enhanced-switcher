@@ -1,0 +1,32 @@
+body {
+  font-family: sans-serif;
+  padding: 20px;
+  background: #f9f9f9;
+}
+h1 {
+  color: #d60000;
+  margin-bottom: 10px;
+}
+.category-section {
+  margin-bottom: 30px;
+}
+h2 {
+  color: #222;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  font-size: 1.2em;
+}
+.engine-button {
+  display: inline-block;
+  padding: 10px 16px;
+  margin: 5px 4px 5px 0;
+  background-color: #111;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 6px;
+  font-size: 1em;
+  transition: background 0.2s;
+}
+.engine-button:hover {
+  background-color: #d60000;
+}
